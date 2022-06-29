@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, everyone </h1>
 
-<h4 align="center">I'm 26 years old, I'm a computer engineering student at the Federal University of Recôncavo da Bahia, but I'm also learning to be a full stack developer at Driven Education. I like Coding, Design and subjects like UI/UX, besides being open to learning new technologies. In my free time I like to practice sports like running or cycling, or cooking or photography.</h4>
+<h4 align="center">I'm 26, computer engineering student at the Federal University of Recôncavo da Bahia, but I'm also learning to be a full stack developer at Driven Education. I like Coding, Design and subjects like UI/UX, besides being open to learning new technologies. In my free time I like to practice sports like running or cycling, or cooking or photography.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f7lipe&label=Profile%20views&color=0e75b6&style=JavaScript" alt="f7lipe" /> </p>
 
