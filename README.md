@@ -31,6 +31,10 @@
   <a href="https://nodejs.org/en/" target="_blank"> 
    <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a> 
+    &emsp; 
+  <a href="https://expressjs.com" target="_blank"> 
+   <img alt="Express JS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a> 
  </p>
 
 ### 🖌 Frontend Development
