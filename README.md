@@ -19,6 +19,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    </a>
+     &emsp;
+    <a href="https://www.typescriptlang.org" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor="blue"">
+   </a>
   &emsp;
   <a href="https://www.apple.com/swift/" target="_blank"> 
     <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
