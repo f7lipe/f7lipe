@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, 🌎 </h1>
 
-<h4 align="center">I'm 26, computer engineering student at the <a href="https://ufrb.edu.br/portal/international" target="_blank"> Federal University of Recôncavo da Bahia</a>, but I'm also learning to be a full stack developer at <a href="https://www.driven.com.br/" target="_blank"> Driven Education</a>. I like Coding, Design and subjects like UI/UX, besides being open to learning new technologies. In my free time I like to practice sports like running or cycling, or even doing relaxing stuffs like cooking or photographing.</h4>
+<h4 align="center">I'm 27, computer engineering student at the <a href="https://ufrb.edu.br/portal/international" target="_blank"> Federal University of Recôncavo da Bahia</a>, but I'm also learning to be a full stack developer at <a href="https://www.driven.com.br/" target="_blank"> Driven Education</a>. I like Coding, Design and subjects like UI/UX, besides being open to learning new technologies. In my free time I like to practice sports like running or cycling, or even doing relaxing stuffs like cooking or photographing.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f7lipe&label=Profile%20views&color=0e75b6&style=JavaScript" alt="f7lipe" /> </p>
 
