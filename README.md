@@ -1,4 +1,4 @@
-<h1 align="center">Hello, 🌎 </h1>
+<h1 align="left">Hello, 🌎 </h1>
 
 <h4 align="left">I'm Filipe. I have a passion for coding, designing, UI/UX and lately, AI. <br> I'm always eager to learn new technologies. In my free time, I enjoy sports like running or cycling, as well as relaxing activities like cooking or photographing.</h4>
 
