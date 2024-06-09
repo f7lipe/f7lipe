@@ -2,9 +2,8 @@
 
 <h4 align="left">I'm Filipe. I have a passion for coding, designing, UI/UX and lately, AI. <br> I'm always eager to learn new technologies. In my free time, I enjoy sports like running or cycling, as well as relaxing activities like cooking or photographing.</h4>
 
-## 🛠️ My Skills
 
-### Programming languages
+## Programming languages
 
 <p align="left"> 
   &emsp;
@@ -21,7 +20,7 @@
   </a>
 </p>
 
-### Data Analysis & AI
+## Data Analysis & AI
 <p align="left">
   &emsp;
   <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
@@ -33,7 +32,7 @@
   <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 </p>
 
-### Backend Development 
+## Backend Development 
 <p align="left"> 
   &emsp; 
   <a href="https://nodejs.org/en/" target="_blank"> 
@@ -45,7 +44,7 @@
   </a> 
  </p>
 
-### Frontend Development
+## Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -65,7 +64,7 @@
   </a>
 </p>
 
-### Databases & Cloud Hosting
+## Databases & Cloud Hosting
 <p align="left">
   &emsp;
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -87,7 +86,7 @@
   <a href="https://aws.amazon.com"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
  </p>
 
-### Tools & Technologies
+## Tools & Technologies
 <p align="left">
   &emsp;
   <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
@@ -101,7 +100,7 @@
 
 <br/>
 
-### 👋 Let's Connect
+## 👋 Let's Connect
 <p align="left">
     <a href="mailto:filipercs@icloud.com"><img src="https://img.shields.io/badge/Email-40C057?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/f7lipe"><img src="https://img.shields.io/badge/GitHub-7950F2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
